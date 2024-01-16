@@ -18,7 +18,9 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
-    "@electron-toolkit/utils": "^3.0.0"
+    "@electron-toolkit/utils": "^3.0.0",
+    "pinia": "^2.1.7",
+    "vuetify": "^3.4.10"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config": "^1.0.1",
